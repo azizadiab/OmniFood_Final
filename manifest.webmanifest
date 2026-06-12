@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "img/favion-android.png",
+      "type": "image/png",
+      "sizes": "192*192"
+    },
+    {
+      "src": "img/favion-512.png",
+      "type": "image/png",
+      "sizes": "512*512"
+    }
+  ]
+}
