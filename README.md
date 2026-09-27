@@ -3,7 +3,7 @@
 A modern and responsive landing page for a fictional AI-based food subscription service.
 
 ## 🚀 Live Demo
-https://omnifood2026.netlify.app/
+https://azizadiab.github.io/OmniFood_Final/#cta
 
 ## 📌 Project Overview
 Omnifood is a front-end project focused on building a clean, modern, and fully responsive website using HTML, CSS, and JavaScript, C#, ASP.NET, Sql fundamentals.
@@ -66,7 +66,6 @@ The website is optimized for:
 
 ## Live Demo
 Frontend:
-https://azizadiab.github.io/OmniFood_Final/#cta
 https://omnifood2026.netlify.app
 
 Backend API:
