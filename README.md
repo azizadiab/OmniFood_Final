@@ -66,6 +66,7 @@ The website is optimized for:
 
 ## Live Demo
 Frontend:
+https://azizadiab.github.io/OmniFood_Final/#cta
 https://omnifood2026.netlify.app
 
 Backend API:
